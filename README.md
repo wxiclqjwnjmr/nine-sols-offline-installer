@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Nine Sols is a lore rich, hand-drawn 2D action-platformer featuring Sekiro-inspired deflection focused combat. Embark on a journey of eastern fantasy, explore the land once home to an ancient alien race, and follow a vengeful hero’s quest to slay the 9 Sols, formidable rulers of this forsaken realm.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 64bit | macOS 10.13 |
+| **Processor** | Min: AMD Athlon X4 | Intel Core i5 4460 / Rec: AMD Ryzen 3 | Intel i5 Skylake | M1 Air |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: Nvidia GTX 950 | AMD R7 370 / Rec: Nvidia GTX 970 | AMD RX 570 | M1 |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 15 GB available space | 15 GB available space |
 
 ---
 
